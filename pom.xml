@@ -11,6 +11,7 @@
     <modules>
         <module>microservice-consumer-movie-ribbon-hystrix-common</module>
         <module>microservice-hystrix-dashboard</module>
+        <module>microservice-consumer-movie-feign-hystrix-stream</module>
     </modules>
 
 
